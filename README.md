@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Vertesian
+- 👀 I’m interested in Front end/ Virtual Reality 
+- 🌱 I’m currently learning JS/Unity/Blender/C#
